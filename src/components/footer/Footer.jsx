@@ -79,7 +79,7 @@ export default function Footer() {
 
                     <div className="footer-bottom">
                         <hr id="footer-bottom-line" />
-                        <p>Copyright &copy;2023 All rights reserved | Colorlib Template <br /><b>Pathik Bhattarai</b></p>
+                        <p>Copyright &copy;2023 All rights reserved | <b>Pathik Bhattarai</b></p>
                     </div>
                 </div>
             </div>
